@@ -28,3 +28,8 @@ make migrate -> aplicar migrações \
 make test -> executar os testes \
 make statics -> aloca os estáticos do projeto na pasta 'static' \
 make format -> formata o código fonte
+
+### Utilitários para teste nos endpoints
+
+Postman \
+Insomnia
