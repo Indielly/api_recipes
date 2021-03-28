@@ -1,0 +1,7 @@
+.pytest-cache
+*.pyc
+.vscode
+.idea
+.venv
+__pycache__/
+*.sqlite3
